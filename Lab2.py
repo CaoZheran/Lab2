@@ -41,9 +41,7 @@ def calc_min_max_temperature(num_input):
             smallest = i
 
     max_min_ = [smallest, largest]
-    return max_min_
-
-def 
+    return max_min_ 
 
 if __name__ == "__main__":
     main()
